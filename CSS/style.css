@@ -1,0 +1,12 @@
+body {
+    background-color: beige;
+}
+
+.hidden {
+    display: none;
+}
+
+h1{
+    font-size: 20pt;
+    font-family: 'Courier New', Courier, monospace;
+}
